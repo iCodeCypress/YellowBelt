@@ -1,0 +1,55 @@
+body{
+    min-height:325vh;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 3px solid black;
+    background-image:url("https://th.bing.com/th/id/R.fbd0f8ca16b4767751ad1f6aa6f2c8d0?rik=ecyMf1kkBkT02g&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2015%2f06%2fBeautiful-Statue-of-Liberty-Wallpaper-HD.jpg&ehk=VrDqO9nswxHRU%2bSATAkoOd%2bnbgUSQvFLbJ5Jzl3FKT4%3d&risl=&pid=ImgRaw&r=0");
+    background-color:white;
+    height:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+
+
+}
+h1{
+font-size:70 px;
+font-weight:600;
+}
+h2{
+    font-size:20 px;
+    font-weight:600;
+    }
+
+
+.center{
+ display :block;
+margin-left: auto;
+margin-right:auto ;
+width:80%;
+height:20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
