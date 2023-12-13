@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+}
+
+p {
+    border: dotted;
+}
+h1 {
+    border: dash
+}
+
+
+
+table, th, td{
+border: solid;
+}
+
+
+

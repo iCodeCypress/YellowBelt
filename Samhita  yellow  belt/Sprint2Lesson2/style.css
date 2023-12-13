@@ -1,0 +1,62 @@
+/*aijejkldjsfjiueoi*/
+
+
+/*h1 is turned to blue*/
+#Samhita{
+    color:red;
+}
+
+.joe{
+    color:green;
+}
+
+.one{
+    font-size: 70px;
+    color:brown;
+}
+
+#patrick{
+    color:chartreuse;
+}
+
+.two{
+    color:red;
+    text-align:right;
+}
+
+h1.two{
+    color:blue;
+}
+
+h1, h2, h5{
+    color:purple;
+}
+
+
+
+.div{
+    background-color: darkorchid;
+    color:aliceblue;
+
+}
+
+.three{
+    color: aliceblue;
+}
+
+.four{  
+    color:dodgerblue;
+}
+
+#jklfdsjoeio{
+    color: aquamarine;
+}
+
+.f5{
+    text-align: right; 
+    background-color: blue;
+    width: fit-content;
+    height: 500px;
+    margin-left:auto;
+    margin-right: auto;
+}

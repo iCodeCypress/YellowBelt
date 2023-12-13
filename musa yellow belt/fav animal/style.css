@@ -1,0 +1,12 @@
+p{
+    border: dotted;
+    border-color: rgb(0, 213, 255);
+}
+
+h4{
+    border: dashed;
+}
+
+table, th, td {
+    border: solid;
+}
