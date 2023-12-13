@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(67, 22, 109);
+}
+p{
+    border: dotted;
+    border-color: blueviolet;
+}
+h1{
+    border: ridge;
+    border-color: rgb(23, 24, 101);
+}
+p{
+    color: blue;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+table, td, th{
+    border: dotted rgb(15, 185, 35);
+}

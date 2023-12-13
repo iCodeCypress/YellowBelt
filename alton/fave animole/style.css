@@ -1,0 +1,43 @@
+body {
+    background-color: goldenrod;
+}
+
+
+ p {
+border: double;
+border-color: red;
+ }
+
+h3 {
+    border: dotted
+ }
+
+
+table, th, td,{
+border: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+srgb rgb(255, 0, 0) rgb(39, 184, 39) rgb(33, 33, 237));

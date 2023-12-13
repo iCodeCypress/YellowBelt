@@ -1,0 +1,11 @@
+body {
+    background-color: gray;    
+}
+
+p {
+   border: dotted;
+   border-color: azure
+} 
+table, th, td{
+    border:solid;
+}

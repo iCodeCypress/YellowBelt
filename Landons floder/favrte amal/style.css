@@ -1,0 +1,11 @@
+body {
+    background-color: orange;
+}
+
+p {
+border: dotted;
+}
+
+table, th, td{
+    border: solid;
+}

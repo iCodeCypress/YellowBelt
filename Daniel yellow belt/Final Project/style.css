@@ -1,0 +1,19 @@
+body{
+    background-image:url("https://i.pinimg.com/originals/04/c0/66/04c06607bf83390736e830ce454f5719.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-left:auto;
+}
+table{
+    border: black 3px solid;
+}
+img{
+    width:400px;
+    height: auto;
+}

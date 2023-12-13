@@ -1,0 +1,11 @@
+body{
+    min-height:  325vh;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 3px solid black;
+    background-color: blueviolet #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,41 @@
+body{
+    background-color:bisque;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+img{
+    width: 150px;
+    height:150px;
+
+}
+
+.disney{
+    border: 4px cadetblue solid;
+    width: 255px;
+    height:250px;
+}
+
+.boba{
+    border: 4px indianred solid ;
+}
+
+.ac{
+    border: 4px gray solid ;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    font-size:20px;
+    background-color: darkseagreen;
+
+
+}   
+
+button:hover{
+    background-color: antiquewhite;
+}
+
+.flower{
+    border: 4px rgb(177, 177,237) solid;
+}

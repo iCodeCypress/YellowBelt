@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+}
+
+h3 {
+    border: double darkblue;
+}
+
+p {
+    border: chocolate;
+}
+
+
+
+table, th, td {
+    border: 1px dotted blue;
+}
+LI {
+    color: blue;
+}

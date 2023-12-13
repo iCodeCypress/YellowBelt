@@ -1,0 +1,68 @@
+body {
+    background-color: aqua;
+}
+
+p{
+    border: inset;
+    color: white;
+    
+}
+
+h1{
+    color: lightseagreen
+}
+
+h3{
+    color: lightcoral;
+}
+
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+ #para2{
+    color:blue
+ }
+
+#para1{
+    color:blueviolet
+
+}
+
+#para3{
+    color:black
+}
+
+#para4{
+    color:chartreuse
+}
+
+#para5{
+    color:cornflowerblue
+}
+
+.headings12{
+    text-align: center;
+}
+
+.head1{
+    background-color: blue;
+}
+
+.head2{
+    background-color: blue;
+}
+
+
+h3, ul, li{
+    color:darkorange
+}
+
+
+
+
+
+
+
+

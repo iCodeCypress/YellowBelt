@@ -1,0 +1,78 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    border-style: groove;
+    background-color: crimson;
+    color: blue;
+}
+
+p{
+    border: ridge;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+
+h2{
+    text-align: justify;color: aliceblue;
+}
+
+#pete{
+    text-align: right;color: chocolate;
+}
+
+
+#bob{
+    color: firebrick;
+}
+
+h4{
+text-align: center; color: darkorchid;
+}
+
+
+
+
+h5{
+    text-align: left;color: burlywood;
+}
+
+
+
+
+
+
+
+h6{
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

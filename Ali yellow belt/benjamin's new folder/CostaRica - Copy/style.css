@@ -1,0 +1,34 @@
+.centered{
+    text-align:center;
+}
+body{
+    min-height: 325vh;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 3px solid black;
+    background-image: url("https://www.fodors.com/wp-content/uploads/2019/10/06_BestBeachesInCostaRica__PlayaDominical_iStock-484987836.jpg");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#treep{
+    background-color:rgb(49, 145, 183);
+}
+h1{
+    font-size: 70px;
+    font-weight: 600;
+}
+h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+p{
+    background-color: whitesmoke;
+}
+
+
